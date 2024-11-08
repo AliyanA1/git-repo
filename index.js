@@ -8,3 +8,9 @@ function add(a,b){
 
 
 add(a,b);
+
+function cut(a,b){
+    return a/b;
+}
+
+cut(a,b);
